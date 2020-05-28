@@ -8,7 +8,7 @@
 
 #### [video series (hungarian)](https://bme.videotorium.hu/hu/channels/885/valoszin-segszamitas)
 
-####[Probability distribution notes](probability_distributions_notes.md)
+#### [Probability distribution notes](probability_distributions_notes.md)
 
 ### Multivariate Normal
 
