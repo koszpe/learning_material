@@ -4,4 +4,6 @@
 
 [Linear algebra](linalg/README.md)
 
+[Information theory](information_theory/README.md)
+
 [DL](dl/README.md)
