@@ -15,3 +15,11 @@
 #### [Interactive visual explanation](https://distill.pub/2016/augmented-rnns/#neural-turing-machines)
 #### [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
 
+### Normalizing Flows
+
+#### [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf)
+DeepMind introductory paper
+
+### VAE
+
+#### [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
