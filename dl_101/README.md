@@ -1,0 +1,9 @@
+### DL 101s
+
+#### [DeepMind x UCL video series](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+
+#### [ConvNet](https://cs231n.github.io/convolutional-networks/)
+
+
+#### Reconciling modern machine learning practice and the bias-variance trade-of [arXiv](https://arxiv.org/pdf/1812.11118.pdf) [pnas](https://www.pnas.org/content/pnas/116/32/15849.full.pdf)
+
