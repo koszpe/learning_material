@@ -23,3 +23,8 @@ DeepMind introductory paper
 ### VAE
 
 #### [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
+
+
+### Tools
+
+#### [JAX: From PyTorch to JAX](https://sjmielke.com/jax-purify.htm)
